@@ -1,0 +1,8 @@
+name: wip
+variables:
+  - name: base_url
+    value: https://api.kitek-pg.ru/api/marketplace
+    description: ""
+  - name: token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE3OTE3Mzc0NDYxMjAsInVzZXJuYW1lIjoic3R1ZGVudDEiLCJpYXQiOjE3OTE3Mzc1MTYsImV4cCI6MTc5MTgyMzkxNn0.6_pkAc-gZ-6050B2V_7Vs7rciejv0yiHT3L-AUK35-k
+    description: ""
